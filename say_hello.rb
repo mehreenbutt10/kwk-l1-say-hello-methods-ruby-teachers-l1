@@ -5,4 +5,4 @@ end
 
 say_hello("Reenie")
 say_hello("Kristina")
-say_hello("Jayda")
+say_hello
